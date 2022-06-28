@@ -4,7 +4,7 @@ class Inventory
 	private $host  = 'localhost';
 	private $user  = 'root';
 	private $password   = '';
-	private $database  = 'inventario';
+	private $database  = 'inventario-basico';
 	private $userTable = 'ims_user';
 	private $customerTable = 'ims_customer';
 	private $categoryTable = 'ims_category';
